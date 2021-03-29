@@ -2,7 +2,7 @@
 
 ## Etudiant
 
-| **NOM** Prénom   | Email                            |
+| 🎓 **NOM** Prénom | 📧 Email                          |
 | ---------------- | -------------------------------- |
 | **CANTA** Thomas | thomas.canta@etu.umontpellier.fr |
 
