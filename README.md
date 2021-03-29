@@ -14,5 +14,4 @@ Il permet aussi de faire des requêtes à l'API (comme le logiciel Postman).
 
 ## Exécution
 
-Il suffit d'ouvrir le projet et de lancer le projet. 
-L'API et l'application Console se lanceront en même temps.
+Il suffit d'ouvrir le projet et de le lancer. L'API et l'application Console se lanceront en même temps.
