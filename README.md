@@ -9,7 +9,7 @@
 
 ## Information
 
-Le projet utilise le package Swashbuckle.AspNetCore permettant d'offir une documentation complète lors du démarrage de l'API, dans le navigateur web.
+Le projet utilise le package Swashbuckle.AspNetCore, plus communément appellé SwaggerUI, permettant d'offir une documentation complète lors du démarrage de l'API, dans le navigateur web.
 Il permet aussi de faire des requêtes à l'API (comme le logiciel Postman).
 
 ## Exécution
